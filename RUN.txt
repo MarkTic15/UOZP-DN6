@@ -1,0 +1,2 @@
+1. Pripravite si direktorij z datotekami, hw6.py, rtvslo_train.json.gz ter rtvslo_test.json.gz.
+2. V terminalu zaženite naslednji ukaz: python hw6.py rtvslo_train.json.gz rtvslo_test.json.gz
